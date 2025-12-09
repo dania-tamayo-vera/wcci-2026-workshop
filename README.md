@@ -20,7 +20,7 @@ This workshop opens discussion on how explainability can be framed as a measurab
 3. Interactive group design session  
    Mixed background groups will explore practical challenges such as defining measurable objectives for explanation quality, designing search strategies that balance simplicity and interpretability, and examining trade offs among accuracy, complexity, and human understanding. Each group will outline a short optimization for explainability concept and share it with the audience.
 
-4. Panel discussion (led by  Dr. Antonio Bolufe-Röhler)  
+4. Panel discussion
    Focused discussion on experimental approaches for analyzing algorithmic behavior in evolutionary optimization. Central question: How can experimental analysis of search dynamics guide the design of transparent and trustworthy optimization processes?
 
 5. Closing reflection  
