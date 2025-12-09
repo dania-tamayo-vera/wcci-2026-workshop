@@ -30,14 +30,16 @@ This workshop opens discussion on how explainability can be framed as a measurab
 # Presenters
 
 <img src="assets/sychen.jpg" alt="Stephen Chen" width="180">
+
 Dr. Stephen Chen, York University, Canada
 Specialist in Experimental Computational Intelligence, focusing on designing novel experiments and metrics to understand optimization methods and processes.
 
 <img src="assets/james.jpeg" alt="James Montgomery" width="180">
+
 Dr. James Montgomery, University of Tasmania, Australia
 Researcher in optimization and heuristic search, focusing on the design of evolutionary algorithms and their applications in environmental and agricultural modeling.
 
-<img src="assets/dania.JPG" alt="Dania Tamayo-Vera" width="180">
+<img src="assets/dania.jpg" alt="Dania Tamayo-Vera" width="180">
 
 Dr. Dania Tamayo-Vera, University of Prince Edward Island, Canada
 Researcher in optimization aware explainable AI and model selection, focusing on integrating trust metrics into evolutionary search.
