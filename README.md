@@ -39,7 +39,7 @@ Specialist in Experimental Computational Intelligence, focusing on designing nov
 Dr. James Montgomery, University of Tasmania, Australia
 Researcher in optimization and heuristic search, focusing on the design of evolutionary algorithms and their applications in environmental and agricultural modeling.
 
-<img src="assets/dania.jpg" alt="Dania Tamayo-Vera" width="180">
+<img src="assets/dania.JPG" alt="Dania Tamayo-Vera" width="180">
 
 Dr. Dania Tamayo-Vera, University of Prince Edward Island, Canada
 Researcher in optimization aware explainable AI and model selection, focusing on integrating trust metrics into evolutionary search.
